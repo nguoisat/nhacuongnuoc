@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.WaterReminder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryDark">@color/teal_deep</item>
+        <item name="colorAccent">@color/sun</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Giọt Nước</string>
+    <string name="channel_name">Nhắc uống nước</string>
+    <string name="channel_desc">Thông báo nhắc uống nước mỗi 30 phút trong giờ hành chính</string>
+    <string name="notif_title">Đến giờ uống nước 💧</string>
+</resources>
